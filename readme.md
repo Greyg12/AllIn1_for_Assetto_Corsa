@@ -5,6 +5,8 @@ The InOne app for Assetto Corsa is a racing telemetry display that provides real
 
 The app is written in Python and integrates with Assetto Corsa's Python API, making it highly customizable and extendable for various telemetry requirements.
 
+![InOne App Overview](images/allinones.png)
+
 ## Features
 - **Speed**: Displays the current speed in both kilometers per hour (km/h) and miles per hour (mph).
 - **Car Inputs**: Shows accelerator, brake, and clutch positions, with values displayed as percentages.
