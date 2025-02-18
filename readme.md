@@ -22,7 +22,7 @@ The app is written in Python and integrates with Assetto Corsa's Python API, mak
 1. Clone the repository into your `apps/python` directory inside the Assetto Corsa installation folder:
 
     ```bash
-    git clone https://github.com/your_username/InOne.git
+    git clone https://github.com/Greyg12/AllIn1_for_Assetto_Corsa.git
     ```
 
 2. Make sure that you have **Python 2.7.x** installed (required by Assetto Corsa for Python scripting).
